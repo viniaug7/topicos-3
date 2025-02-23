@@ -1,0 +1,15 @@
+=== LEMMATIZED ===
+Vocabulary size: 3103
+Average occurrences: 3.0670
+Average token length: 6.2649
+
+=== PORTER STEMMER ===
+Vocabulary size: 2842
+Average occurrences: 3.3487
+Average token length: 5.6510
+
+=== SNOWBALL STEMMER ===
+Vocabulary size: 2814
+Average occurrences: 3.3820
+Average token length: 5.6549
+
